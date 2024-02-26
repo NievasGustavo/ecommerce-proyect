@@ -32,9 +32,9 @@ En el estamos implementado buenas practicas de programacion como clean code, API
 
 Nuestro stack tecnologico lo decimos en base a lo que consideramos mejor para poder desarrollarlo aqui te contactamos el porque de cada tecnologia. 
 
-* React: 
+* React: Optamos por utilizar React debido a su eficiencia con el Virtual DOM y su arquitectura basada en componentes. Esto nos brinda flexibilidad para integrar otras herramientas y su capacidad para compartir código con React Native lo convierte en una excelente opción para futuras expansiones a aplicaciones móviles.
 
-* Tailwand CSS:
+* Tailwand CSS: Optamos por utilizar Tailwind CSS por su enfoque pragmático y eficiente en la creación de estilos. Al aprovechar su conjunto predefinido de clases utilitarias, agilizamos el desarrollo y mantenimiento del diseño. La configuración simple y la flexibilidad de Tailwind nos permiten personalizar la apariencia de manera eficaz, mejorando así la experiencia de desarrollo.
 
 * PostegreSQL: Lo decidimos ya que al no ser un proyecto que va a escalar tanto creemos que una base de datos relacional nos va a ser beneficioso en la rapidez para las consultas. Asi como al ser una base de datos relacional es mas consistente en los datos. En un futuro si es escalado el proyecto podriamos usar MongoDB como base No SQL.
 
@@ -52,5 +52,5 @@ See the [open issues](https://github.com/NievasGustavo/ecommerce-proyect/issues)
 
 ## Autores
 
-* **Gustavo Nievas ** - *Desarrollador Backend* - [Gustavo Nievas ](https://github.com/NievasGustavo) - *Encargado de Backend*
+* **Gustavo Nievas** - *Desarrollador Backend* - [Gustavo Nievas ](https://github.com/NievasGustavo) - *Encargado de Backend*
 * **Facundo Oliva** - *Desarrollador Frontend* - [Facundo Oliva](https://github.com/Oliva-Facundo) - *Encargado de Frontend*
